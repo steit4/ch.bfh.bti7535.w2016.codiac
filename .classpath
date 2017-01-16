@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="out"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/mysql-connector-java-5.1.14"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/nz.ac.waikato.cms.weka:weka-stable:3.8.0"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/com.kryshchuk.maven.plugins:jfreechart-maven-plugin:1.1.4"/>
+	<classpathentry kind="output" path="out"/>
+</classpath>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inheritJdk="true">
+	<output-test url="file:///test/dataScience"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="mysql-connector-java-5.1.14" value="project"/>
+		<level name="nz.ac.waikato.cms.weka:weka-stable:3.8.0" value="project"/>
+		<level name="com.kryshchuk.maven.plugins:jfreechart-maven-plugin:1.1.4" value="project"/>
+	</levels>
+</component>
