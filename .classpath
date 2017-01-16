@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="src" path="out"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/mysql-connector-java-5.1.14"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/nz.ac.waikato.cms.weka:weka-stable:3.8.0"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/com.kryshchuk.maven.plugins:jfreechart-maven-plugin:1.1.4"/>
+	<classpathentry kind="lib" path="lib/arpack_combined_all-0.1.jar"/>
+	<classpathentry kind="lib" path="lib/bounce-0.18.jar"/>
+	<classpathentry kind="lib" path="lib/core-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/java-cup-11b-2015.03.26.jar"/>
+	<classpathentry kind="lib" path="lib/java-cup-11b-runtime-2015.03.26.jar"/>
+	<classpathentry kind="lib" path="lib/jniloader-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/mtj-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.14.jar"/>
+	<classpathentry kind="lib" path="lib/native_ref-java-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/native_system-java-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/netlib-java-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/netlib-native_ref-linux-armhf-1.1-natives.jar"/>
+	<classpathentry kind="lib" path="lib/netlib-native_ref-linux-i686-1.1-natives.jar"/>
+	<classpathentry kind="lib" path="lib/netlib-native_ref-linux-x86_64-1.1-natives.jar"/>
+	<classpathentry kind="lib" path="lib/netlib-native_ref-osx-x86_64-1.1-natives.jar"/>
+	<classpathentry kind="lib" path="lib/netlib-native_ref-win-i686-1.1-natives.jar"/>
+	<classpathentry kind="lib" path="lib/netlib-native_ref-win-x86_64-1.1-natives.jar"/>
+	<classpathentry kind="lib" path="lib/netlib-native_system-linux-armhf-1.1-natives.jar"/>
+	<classpathentry kind="lib" path="lib/netlib-native_system-linux-i686-1.1-natives.jar"/>
+	<classpathentry kind="lib" path="lib/netlib-native_system-linux-x86_64-1.1-natives.jar"/>
+	<classpathentry kind="lib" path="lib/netlib-native_system-osx-x86_64-1.1-natives.jar"/>
+	<classpathentry kind="lib" path="lib/netlib-native_system-win-i686-1.1-natives.jar"/>
+	<classpathentry kind="lib" path="lib/netlib-native_system-win-x86_64-1.1-natives.jar"/>
+	<classpathentry kind="lib" path="lib/weka-stable-3.8.0.jar"/>
 	<classpathentry kind="output" path="out"/>
 </classpath>
